@@ -1,0 +1,14 @@
+{
+  "name": "functional-programming",
+  "version": "0.1.0",
+  "description": "Javascript Functional Programming Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hari Narasimhan <hari@canvara.co.in> (http://canvara.co.in/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.4.1"
+  }
+}
